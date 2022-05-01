@@ -1,0 +1,294 @@
+.personal-main-photo {
+  align-items: center;
+  background-image: url("Pictures/malta.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  height: 700px;
+  color: white;
+  text-align: center;
+
+
+}
+h1 {
+  font-size: 35px;
+  text-align: center;
+  
+
+}
+h2 {
+  text-align: center;
+  font-size: 30px;
+  line-height: 1.4;
+
+
+
+}
+.main{
+  color: #5E8B7E;
+}
+@media screen and (max-width:500px){
+  #myModal{
+    width: 100%;
+    height: 350px;
+  }
+  }
+
+
+
+.solve {
+  margin-top: -20px;
+  color: #2F5D62;
+}
+
+.personal-intro-subtitle{
+  width: 700px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 24px;
+}
+
+@media screen and (max-width:500px){
+
+  .personal-intro-subtitle {
+    display: contents;
+    font-family: serif;
+
+    }
+  }
+
+.first-part{
+  font-size: 22px;
+  font-family: serif;
+  height: 400px;
+  width: 500px;
+  height: 200px;
+  padding-left: 180px;
+
+}
+@media screen and (max-width:500px){
+  .first-part {
+    display: contents;
+  }
+}
+
+
+.profile-subtitle{
+font-family: bold 'Inconsolata', monospace;
+text-align: center;
+font-size: 32px;
+width: 800px;
+padding-left: 300px;
+margin-top: 100px;
+color: #2F5D62;
+
+}
+@media screen and (max-width:500px){
+  .profile-subtitle {
+    display: contents;
+    font-family: serif;
+    font-size: 24px;
+
+  }
+}
+.foto {
+ width: 180px;
+ height: 180px;
+
+}
+.first-hr{
+  margin-top: 150px;
+}
+@media screen and (max-width:500px){
+  .first-hr {
+    margin-top: 10px;
+    margin-bottom: 30px;
+  }
+}
+.middle-second{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+}
+@media screen and (max-width:500px){
+  .middle-second {
+    font-size: 8px;
+  }
+}
+.first-div {
+padding-top: 40px;
+display:flex;
+padding-left: 70px;
+white-space: pre-wrap;
+line-height: 1.4;
+}
+@media screen and (max-width:500px){
+  .first-div {
+ display: block;
+ padding-left: 4px;
+  }
+}
+.first-pic {
+height: auto;
+width: 530px;
+}
+@media screen and (max-width:500px){
+  .first-pic {
+    height: auto;
+    width: 100%;
+    padding-top: -100px;
+  }
+}
+
+.second-div {
+  display: flex;
+  padding-right: 100px;
+  white-space: pre-wrap;
+  line-height: 1.4;
+}
+@media screen and (max-width:500px){
+
+  .second-div{
+
+    display: contents;
+
+  }
+}
+.second-part{
+  width: 600px;
+  height: 200px;
+  font-size: 22px;
+  font-family: serif;
+  height: 400px;
+  margin-left: 90px;
+}
+@media screen and (max-width:500px){
+  .second-part {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+.second-pic {
+  height: 330px;
+  width: 400px;
+  padding-left: 130px;
+  padding-top: 90px;
+}
+@media screen and (max-width:500px){
+  .second-pic {
+    margin-top: 390px;
+    width: 100%;
+    margin-left: -130px;
+
+  }
+}
+.second-hr {
+  margin-top: 200px;
+  margin-bottom: 30px;
+}
+@media screen and (max-width:500px){
+  .second-hr {
+    margin-top: 60px;
+  }
+}
+.third-div {
+padding-top: 40px;
+display:flex;
+padding-left: 70px;
+white-space: pre-wrap;
+line-height: 1.4;
+}
+@media screen and (max-width:500px){
+  .third-div {
+    display: block;
+  }
+}
+.third-pic {
+padding-left: 50px;
+height: 400px;
+width: 500px;
+padding-top: 190px;
+}
+@media screen and (max-width:500px){
+  .third-pic {
+    width: 370px;
+    height: 300px;
+    margin-top: -200px;
+    margin-left: -118px;
+  }
+}
+.third-part{
+  font-size: 22px;
+  font-family: serif;
+  height: 400px;
+  width: 500px;
+  height: 200px;
+  padding-left: 180px;
+
+}
+@media screen and (max-width:500px){
+  .third-part{
+    margin-left: -230px;
+    width: 100%;
+  }
+}
+.third-hr{
+  margin-top: 320px;
+}
+@media screen and (max-width:500px){
+  .third-hr{
+    margin-top: 1120px;
+    margin-bottom: 30px;
+  }
+}
+.forth-div {
+  display: flex;
+  padding-right: 90px;
+  white-space: pre-wrap;
+  line-height: 1.4;
+}
+@media screen and (max-width:500px){
+  .forth-div {
+    display: block;
+    margin-top: -110px;
+  }
+}
+.forth-part{
+
+  font-size:;
+  font-family: serif;
+  margin-left: 100px;
+
+
+
+}
+.forth-pic {
+  height: 300px;
+  width: 400px;
+  padding-left: 50px;
+  padding-top: 70px;
+}
+@media screen and (max-width:500px){
+  .forth-pic {
+    width: 370px;
+    margin-left: -47px;
+    margin-top: -90px;
+  }
+}
+
+footer {
+    margin-top: 60px;
+    padding-top: 30px;
+    background-color: #efefef;
+    color: #000;
+    text-align: center;
+    height: 150px;
+
+  }
+
+
+.social-icon {
+    font-size: 22px;
+    text-align: center;
+
+  }
